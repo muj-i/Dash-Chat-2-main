@@ -14,7 +14,7 @@ class MessageOptions {
     this.onPressMessage,
     this.onPressMention,
     this.letterSpacing = 0.50,
-    Color? currentUserContainerColor = const Color(0xFF00A0DC),
+    Color? currentUserContainerColor = const Color(0xFF0077B5),
     Color? currentUserTextColor,
     this.containerColor = const Color(0xFFF2F2F2),
     this.textColor = Colors.black,
