@@ -245,7 +245,7 @@ class DefaultMessageText2 extends StatelessWidget {
               alignment: Alignment.center,
               height: 32,
               decoration: ShapeDecoration(
-                color: Color(0xFF00A0DC),
+                color: Color(0xFF0077B5),
                 shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(3)),
               ),
