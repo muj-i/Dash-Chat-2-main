@@ -101,7 +101,7 @@ class MessageOptions {
   ///
   /// Default to: `Theme.of(context).primaryColor`
   Color currentUserContainerColor(BuildContext context) {
-    return _currentUserContainerColor ?? Theme.of(context).primaryColor;
+    return _currentUserContainerColor ?? Colors.red;
   }
 
   /// Used to calculate [currentUserContainerColor]
